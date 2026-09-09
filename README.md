@@ -1,4 +1,4 @@
-# Manipulação de Dados e Arquivos JSON em TypeScript
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10BCF7&height=180&section=header&text=Manipulação+de+Dados+e+Arquivos+JSON+em+TypeScript&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 Este projeto demonstra como criar modelos de dados strongly-typed em TypeScript, manipular arrays em memória e persistir dados localmente utilizando o módulo nativo `fs` (File System) do Node.js.
 
