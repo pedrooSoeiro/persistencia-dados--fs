@@ -49,3 +49,5 @@ O código define as seguintes estruturas de dados principais:
 1. Instale as dependências de tipos do Node (se necessário):
    ```bash
    npm install -D @types/node typescript ts-node
+
+   
